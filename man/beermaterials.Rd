@@ -3,8 +3,7 @@
 \docType{data}
 \name{beermaterials}
 \alias{beermaterials}
-\title{The beermaterials dataset
-The dataset was transcribed from PDF's to a .rda dataset}
+\title{The beermaterials dataset}
 \format{A data frame with 120 observations of 11 variables:
 \describe{
  \item{Month}{Month of the year}
@@ -18,7 +17,7 @@ The dataset was transcribed from PDF's to a .rda dataset}
  \item{Hops_dry}{Hops in dry form, in pounds}
  \item{Hops_extracts}{Hops in extracted form, in pounds}
  \item{Other}{Other materials such as flavor, in pounds}
-}}
+ }}
 \source{
 \url{https://catalog.data.gov/dataset/beer-production-and-operations-reports}
 }
@@ -26,8 +25,8 @@ The dataset was transcribed from PDF's to a .rda dataset}
 beermaterials
 }
 \description{
-The beermaterials dataset
-The dataset was transcribed from PDF's to a .rda dataset
+The monthly aggregation of materials used in US Breweries as reported by the TTB.
+    The dataset was transcribed from PDF's to a .rda dataset.
 }
 \keyword{datasets}
 
